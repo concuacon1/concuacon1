@@ -1,0 +1,155 @@
+.container {
+    width: 40%;
+    height: 100%;
+    margin: auto;
+}
+
+.container__chargepoint-head_title {
+    width: 75%;
+    margin: auto;
+    font-size: 35px;
+    text-align: center;
+}
+
+.container__chargepoint-body_title {
+    text-align: center;
+    font-size: 26px;
+    font-weight: bold;
+    margin-top: 10%;
+}
+
+.container__chargepoint-body_content {
+    margin: 5%;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.container__chargepoint-last {
+    margin: 5%;
+    text-align: center;
+}
+
+.button_back {
+    margin-top: 30px;
+    background-color: #e94e1e;
+    color: white;
+    border: none;
+    width: 100%;
+    font-size: 18px;
+    padding: 3%;
+}
+
+.button_next {
+    margin-top: 30px;
+    background-color: #000;
+    color: white;
+    border: none;
+    width: 100%;
+    font-size: 18px;
+    padding: 3%;
+}
+
+/* choose_option_bank */
+.container__choose_option_bank-body_title {
+    font-size: 26px;
+    font-weight: bold;
+    margin: 10% 0 0 5%;
+}
+
+hr {
+    width: 93%;
+}
+
+.container__choose_option_bank-body_content {
+    margin: 5%;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.option_bank {
+    margin-left: 5%;
+    line-height: 2rem;
+    font-weight: bold;
+}
+
+.container__choose_option_bank-last {
+    margin: 5%;
+    text-align: center;
+}
+
+/* input_info_form */
+.input_field {
+    width: 100%;
+    margin-top: 1%;
+    margin-right: 2%;
+    height: 40px;
+    align-items: center;
+    border: 1px solid;
+    border-radius: 3px;
+    padding-left: 2%;
+}
+
+.message_error {
+    color: red;
+    margin-top: 1%;
+    font-size: .8rem;
+}
+
+.container__info_form-title {
+    font-size: 26px;
+    font-weight: bold;
+    margin: 10% 5% 0 5%;
+}
+
+.container__info_form_content {
+    margin: 5%;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.input_info_form {
+    margin: 5%;
+}
+
+.input_group {
+    margin-top: 2%;
+}
+
+.bank_name-input {
+    background-color: #ccc;
+}
+
+.symbol_group-input {
+    width: 40%;
+}
+
+.symbol_single-input {
+    width: 10%;
+    margin-left: 2%;
+}
+
+.feild_content {
+    margin: 2%;
+}
+
+.account_number {}
+
+.btn_next {
+    margin-top: 30px;
+    background-color: #000;
+    color: white;
+    border: none;
+    width: 100%;
+    font-size: 18px;
+    padding: 3%;
+}
+
+.btn_back {
+    margin-top: 30px;
+    background-color: #898989;
+    color: white;
+    border: none;
+    width: 100%;
+    font-size: 18px;
+    padding: 3%;
+}
